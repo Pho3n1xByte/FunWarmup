@@ -1,0 +1,15 @@
+{
+	"Prefix":	  	"{blue}Фан разминка |{default}",
+	"WarmupType": 	"{default}был выбран режим: ",
+ 
+	"HERound": 		"{lime}Гренадеры",
+	"NedoDimki": 	"{lime}Недо-Димки",
+	"CanTouch": 	"{lime}Попробуй попади!",
+	"Speedy": 		"{lime}Хочется какать",
+	"SSGRound": 	"{lime}Перелетные снайперы",
+	"KnifeRound": 	"{lime}35ХП",
+	"Hasbiki": 		"{lime}Хасбики атакуют",
+	"BigBoy": 		"{lime}Размер имеет значение",
+	"Vandam": 		"{lime}Рама 2 вандама",
+	"StrongAwp": 	"{lime}Попробуй попади!"
+}
